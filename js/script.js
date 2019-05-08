@@ -13,4 +13,5 @@ for (i = 0; i < acc.length; i++) {
     }
 }
 abc
-002
+001
+ok
