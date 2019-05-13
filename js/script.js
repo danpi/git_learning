@@ -15,9 +15,6 @@ for (i = 0; i < acc.length; i++) {
 abc
 <<<<<<< Updated upstream
 001
-ok
-=======
-002
 asdasdqwddaasa
 asdad
->>>>>>> Stashed changes
+ad
